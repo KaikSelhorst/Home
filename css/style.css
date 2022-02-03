@@ -48,7 +48,7 @@ body {
 .contact-item a:hover {
   border-color: var(--black-hover);
   color: var(--black-hover);
-  transform: scale(1.1);
+  transform: scale(1.035);
 }
 .contact .contact-item + .contact-item {
   margin: 35px 0px;
